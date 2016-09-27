@@ -7,6 +7,7 @@ Written in f# with [suave](https://suave.io/)
 - Login
 - Static files
 - Middlewares
+
 ## TODO
 - Implement database integration
 - Registration
